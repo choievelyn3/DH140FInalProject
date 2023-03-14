@@ -1,67 +1,28 @@
-# DH140FInalProject1
+# DH140FinalProject1
 
 <div class="alert alert-info">
 
 **Data and viz of interest**
+    
+   The primary focus for my project is to analyze the tone and sentiment of the characters from Jane Austen's "Pride and Prejudice, pulled from Project Gutenberg. I want to do this research on this subject because I want to learn more about how much tone, word choice, and sentiment affect the story itself and the characters within it. Jane Austen has a very distinctive style of writing that makes her stand out compared to other authors within the same genre, and I'm curious to know how her style differs, whether it be word frequency or linguistic style.
+    
+Questions:
+    
+- How does Elizabeth Bennet's and Mr. Darcy's relationship develop as the story progresses? 
+- Why do different genders in Pride and Prejudice speak differently, and how does this effect the novel's overall tone and message? 
+- What significant events cause shifts in how people feel in Pride and Prejudice, and what causes those shifts to occur? 
+- How do the sentiments of Pride and Prejudice's various social classes vary? 
+- How can certain words or word categories help to develop the ideas of Pride and Prejudice? 
+- How does Pride and Prejudice's evolving main characters and their relationship with one another shape the novel's tone? 
+- What are some similarities and differences in the language and emotion used by the various characters in Pride and Prejudice, and how do these elements develop over the novel?
+    
 
-1. Find a journal or newspaper article that relates data science to a humanities topic that you are interested in.
-  * Post a link to the article in the next cell and comment on why it interests you.
-2. Find a data visualization that you would love to know how to make with Python
-  * Include the image in the next cell too and comment on why you like it.
+Additional Resources:
+    https://www.nytimes.com/2017/07/06/upshot/the-word-choices-that-explain-why-jane-austen-endures.html
 
-1. [National Endowment for the Arts Announces First Round of Fiscal Year 2023 Grants](file:///Users/evelynchoi/Desktop/1*F9gf07Uzo9RyLdg52yDeNQ.png)
- I find this topic to be very interesting because I did a digital humanities project that focused on Arts and Culture grants and how those grants are distributed.
- 
- ![1*F9gf07Uzo9RyLdg52yDeNQ.png](attachment:1*F9gf07Uzo9RyLdg52yDeNQ.png)
+    Runge, Laura L. “Austen and Computation 2.0.” Texas Studies in Literature & Language, vol. 61, no. 4, Winter 2019, pp. 397–415. EBSCOhost, https://doi.org/10.7560/tsll61405.
 
-I am interested to learn how to build this type of data visualization because I made a data visual very similar to this one and found that it was really good at representing the data and doesn't feel too convoluted.
+    https://datascientistdiary.com/index.php/2021/02/04/introduction-to-text-mining-and-sentiment-analysis-in-r-with-jane-austens-novels/
+
 
 </div>
-    
-    
-<div class="alert alert-info">
-
-<b>Ideas for data to investigate</b>
-
-In the cell below:
-1. Write a bulleted list of 2 or 3 humanities topics of interest to you.
-2. Review the schedule on the syllabus, and write down the topic/activity/library/concept that most appeals to you, and why
-3. Do a quick search for data and/or articles related to those topics from #1 and #2, and write down a list of links to your search results.
-    
-</div>
-    
-1. Humanities Topics of Interest
-    1. English Literature
-    2. Art History
-    3. Film/Media Studies
-1. Appealing Concepts
-    1. Getting Data: Web Scraping and APIs
-        1. I have always wanted to learn more about how data is collected and how it could be collected more efficiently. I am also interested in learning about APIs because I have always heard about it but was never familiar with what it was.
-        
-<div class="alert alert-info">
-
-<b>Ideas from curated datasets & project lists</b>
-
-Review the projects and datasets on the following two pages:
-* https://miriamposner.com/classes/dh201w21/final-project/datasets
-* https://archive.ics.uci.edu/ml/datasets.php
-
-Make a table in the cell below that includes columns for (1) the name of any dataset of interest, (2) a brief description of the data and how you might investigate it in a project, and (3) a link to the data.
-    
-There is no restriction on number of datasets to include, but please include at least two.
-    
-1. Links
-    1. [The Surprising partnership of art and data](https://press.princeton.edu/ideas/the-surprising-partnership-of-art-and-data)
-    2. [Arts-Based Data Collection Techniques](https://www.evalacademy.com/articles/arts-based-data-collection-techniques)
-
-
-| 19th Century American Children's Book Trade Directory        | 2,600 entries of Children's Literature held at the American Antiquarian Society in the United States, dating between 1821 to 1876           | [Link](https://repository.upenn.edu/mead/28/)  |
-| :-------------: |:-------------:| :-----:|
-
-
-
-
-A Statistical Analysis of the Work of Bob Ross | Data analysis is used to understand Bob Ross' preference towards certain subjects and themes in his artworks | [Link](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)
-:---: | :---: | :---:
-
-
