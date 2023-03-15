@@ -1,6 +1,8 @@
 # DH140FinalProject1
 
 <div class="alert alert-info">
+    
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/choievelyn3/DH140FInalProject/HEAD)
 
 **Data and viz of interest**
     
